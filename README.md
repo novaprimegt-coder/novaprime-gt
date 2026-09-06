@@ -19,3 +19,5 @@ Las nuevas versiones deben modificar únicamente este repositorio. Antes de publ
 
 ## Firebase Hosting
 `firebase.json` usa `public/` como directorio de publicación. Cuando exista un proyecto Firebase autorizado solo será necesario asociar su ID de proyecto y desplegar.
+
+Estado de bootstrap: **activado**.
